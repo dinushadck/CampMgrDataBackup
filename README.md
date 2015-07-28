@@ -1,0 +1,2 @@
+# CampMgrDataBackup
+backup pgsql
